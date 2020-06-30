@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Admin_veg_delivery</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="weight">
+        <item>1Kg</item>
+    </string-array>
+
+</resources>
