@@ -10,6 +10,8 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.admin_veg_delivery.R;
 import com.example.admin_veg_delivery.model.Oders_details;
+import com.example.admin_veg_delivery.model.Product_details;
+
 import java.util.List;
 
 
